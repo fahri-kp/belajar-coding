@@ -1,1 +1,2 @@
 //komen pertama
+// komen kedua
